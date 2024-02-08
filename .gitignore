@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# something
+*.vsidx
+*.opendb

@@ -1,0 +1,5 @@
+﻿  Bifrost.cpp
+  handleServer.cpp
+C:\Bifrost\handleServer.cpp(80,84): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Bifrost.vcxproj -> C:\Bifrost\x64\Debug\Bifrost.exe
